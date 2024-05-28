@@ -114,7 +114,7 @@ int main()
   int arr[9][9];
 
   printf("Enter unsolved sudoku(0 for blanked spaces):\n");
-  printf("Then press any key to see the solution....\n");
+  printf("After entering unsolved sudoku then press any key to see the solution....\n");
   for (int i = 0; i < 9; i++)
   {
     for (int j = 0; j < 9; j++)
